@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Region,Category,Product,Sales,Quantity,Profit,Customer_Segment
+ORD001,2025-11-24,North,Electronics,Headphones,1908,4,211.21,Consumer
+ORD002,2025-12-13,North,Grocery,Coffee,211,1,27.03,Small Business
+ORD003,2025-11-05,North,Furniture,Table,3756,4,787.4,Consumer
+ORD004,2025-03-23,West,Clothing,Jacket,1380,3,401.01,Corporate
+ORD005,2025-02-22,North,Grocery,Coffee,4344,6,924.49,Consumer
+ORD006,2025-08-24,North,Grocery,Coffee,5580,9,1464.58,Small Business
+ORD007,2025-07-05,South,Electronics,Laptop,5346,11,1336.9,Consumer
+ORD008,2025-04-30,North,Grocery,Rice,10568,8,2784.71,Consumer
+ORD009,2025-07-09,East,Furniture,Bookshelf,17028,12,3789.88,Small Business
+ORD010,2025-11-22,South,Furniture,Desk,6376,8,888.74,Small Business
+ORD011,2025-12-19,South,Clothing,Shirt,340,4,87.42,Corporate
+ORD012,2025-05-18,North,Furniture,Bookshelf,5448,4,1034.2,Small Business
+ORD013,2025-08-23,South,Clothing,Jeans,4676,4,928.54,Small Business
+ORD014,2025-10-27,West,Grocery,Rice,1212,4,232.82,Consumer
+ORD015,2025-01-25,North,Furniture,Desk,18369,13,3175.54,Consumer
+ORD016,2025-07-17,West,Grocery,Rice,387,9,88.88,Consumer
+ORD017,2025-12-16,East,Clothing,Shirt,4550,5,522.32,Consumer
+ORD018,2025-05-15,South,Electronics,Headphones,18592,14,3563.82,Consumer
+ORD019,2025-03-20,East,Furniture,Office Chair,6830,10,1280.58,Consumer
+ORD020,2025-07-05,East,Furniture,Office Chair,4724,4,1362.07,Consumer
+ORD021,2025-09-06,North,Furniture,Desk,10923,11,3149.17,Consumer
+ORD022,2025-05-16,West,Furniture,Desk,7896,12,1324.78,Small Business
+ORD023,2025-11-29,East,Grocery,Cooking Oil,1054,2,136.42,Corporate
+ORD024,2025-01-11,South,Furniture,Office Chair,2938,2,642.96,Consumer
+ORD025,2025-02-04,North,Clothing,Shirt,4563,9,644.59,Corporate
+ORD026,2025-04-20,South,Grocery,Snacks,12844,13,3309.25,Consumer
+ORD027,2025-02-18,North,Grocery,Rice,6027,7,1101.41,Small Business
+ORD028,2025-01-28,North,Electronics,Monitor,8568,12,2194.52,Consumer
+ORD029,2025-05-08,South,Furniture,Table,2652,3,319.21,Corporate
+ORD030,2025-05-08,North,Grocery,Coffee,1355,1,406.29,Consumer
+ORD031,2025-02-17,South,Furniture,Table,8040,8,1021.28,Corporate
+ORD032,2025-01-31,South,Grocery,Coffee,3941,7,1118.59,Corporate
+ORD033,2025-05-27,West,Grocery,Snacks,2508,4,320.76,Consumer
+ORD034,2025-10-24,North,Clothing,Shirt,1216,1,224.83,Small Business
+ORD035,2025-03-22,North,Electronics,Smartphone,2476,2,235.1,Consumer
+ORD036,2025-07-26,North,Furniture,Office Chair,1870,10,322.07,Small Business
+ORD037,2025-10-17,East,Clothing,Jeans,16346,11,2437.52,Corporate
+ORD038,2025-07-22,South,Clothing,Shoes,1008,6,82.71,Small Business
+ORD039,2025-10-16,North,Electronics,Smartphone,5067,9,553.01,Corporate
+ORD040,2025-02-05,South,Clothing,Jacket,2751,3,724.68,Small Business
+ORD041,2025-06-04,North,Clothing,Shirt,4425,15,611.46,Consumer
+ORD042,2025-10-11,South,Clothing,Jacket,4510,10,1072.81,Consumer
+ORD043,2025-12-18,East,Grocery,Rice,1860,15,186.57,Corporate
+ORD044,2025-05-22,North,Electronics,Headphones,3731,13,821.44,Corporate
+ORD045,2025-03-24,West,Grocery,Coffee,348,2,100.19,Small Business
+ORD046,2025-03-18,North,Clothing,Jeans,1967,7,175.46,Corporate
+ORD047,2025-01-21,East,Furniture,Desk,2530,11,399.26,Small Business
+ORD048,2025-07-28,South,Furniture,Desk,4966,13,1360.24,Consumer
+ORD049,2025-04-02,East,Grocery,Snacks,1730,5,438.07,Consumer
+ORD050,2025-07-15,North,Grocery,Snacks,3848,4,603.85,Consumer
+ORD051,2025-04-25,North,Furniture,Table,3540,6,956.36,Corporate
+ORD052,2025-06-29,West,Clothing,Shirt,1108,2,132.17,Corporate
+ORD053,2025-01-20,North,Grocery,Rice,7944,12,1398.2,Small Business
+ORD054,2025-03-01,West,Furniture,Bookshelf,1471,1,258.8,Small Business
+ORD055,2025-10-03,South,Clothing,Shoes,2760,2,779.89,Small Business
+ORD056,2025-06-10,North,Clothing,Jacket,9416,11,1428.97,Small Business
+ORD057,2025-06-01,South,Furniture,Table,8756,11,2005.21,Consumer
+ORD058,2025-11-12,East,Grocery,Coffee,3035,5,383.14,Small Business
+ORD059,2025-11-07,East,Grocery,Cooking Oil,11224,8,1425.61,Corporate
+ORD060,2025-03-28,North,Clothing,Jacket,1002,2,228.47,Consumer
+ORD061,2025-04-12,South,Electronics,Laptop,3972,4,851.92,Consumer
+ORD062,2025-08-22,West,Furniture,Table,6704,8,896.17,Small Business
+ORD063,2025-12-19,North,Electronics,Monitor,1520,4,390.49,Small Business
+ORD064,2025-09-23,West,Electronics,Smartphone,4020,15,725.29,Corporate
+ORD065,2025-12-08,East,Grocery,Cooking Oil,15988,14,2847.48,Consumer
+ORD066,2025-09-01,West,Clothing,Jeans,18550,14,2615.71,Small Business
+ORD067,2025-09-06,South,Clothing,Shoes,2962,2,423.15,Corporate
+ORD068,2025-06-21,East,Electronics,Smartphone,1479,3,242.95,Consumer
+ORD069,2025-12-28,South,Electronics,Monitor,4879,7,972.75,Corporate
+ORD070,2025-02-01,South,Grocery,Cooking Oil,18240,15,5255.56,Consumer
+ORD071,2025-10-22,West,Grocery,Coffee,3786,6,930.46,Corporate
+ORD072,2025-10-03,South,Grocery,Snacks,4560,5,852.0,Corporate
+ORD073,2025-06-22,West,Furniture,Table,4215,15,1246.62,Small Business
+ORD074,2025-01-14,West,Electronics,Laptop,9867,11,1083.93,Corporate
+ORD075,2025-04-04,North,Clothing,Shoes,2718,6,489.33,Corporate
+ORD076,2025-07-14,East,Grocery,Rice,2618,14,480.32,Small Business
+ORD077,2025-10-04,North,Clothing,Jeans,1760,11,443.29,Small Business
+ORD078,2025-01-21,North,Furniture,Desk,854,14,185.06,Consumer
+ORD079,2025-03-06,West,Electronics,Smartphone,11616,8,1584.12,Corporate
+ORD080,2025-03-27,North,Furniture,Bookshelf,2410,2,206.41,Corporate
+ORD081,2025-10-22,West,Grocery,Snacks,2464,2,571.49,Small Business
+ORD082,2025-05-05,North,Clothing,Shirt,15327,13,3865.16,Corporate
+ORD083,2025-09-30,West,Clothing,Shirt,12114,9,1878.53,Corporate
+ORD084,2025-09-08,North,Grocery,Rice,10571,11,2490.61,Corporate
+ORD085,2025-04-01,East,Grocery,Cooking Oil,8631,7,1200.11,Consumer
+ORD086,2025-02-14,East,Grocery,Snacks,12623,13,2592.35,Small Business
+ORD087,2025-07-14,East,Electronics,Monitor,9590,14,1150.85,Consumer
+ORD088,2025-07-01,East,Clothing,Jacket,18600,15,4357.24,Corporate
+ORD089,2025-10-12,North,Furniture,Office Chair,5976,4,1012.42,Small Business
+ORD090,2025-05-04,West,Grocery,Cooking Oil,715,13,71.84,Consumer
+ORD091,2025-07-27,South,Clothing,Jacket,9224,8,1815.31,Corporate
+ORD092,2025-10-09,East,Clothing,Shoes,3235,5,437.72,Consumer
+ORD093,2025-04-09,East,Electronics,Smartphone,1852,4,449.1,Corporate
+ORD094,2025-10-29,East,Electronics,Smartphone,2425,5,386.53,Corporate
+ORD095,2025-01-08,South,Clothing,Shirt,1153,1,166.34,Consumer
+ORD096,2025-11-23,West,Electronics,Laptop,6020,10,1103.27,Corporate
+ORD097,2025-06-24,South,Electronics,Headphones,13972,14,1468.45,Consumer
+ORD098,2025-07-25,West,Electronics,Laptop,975,3,251.99,Corporate
+ORD099,2025-02-13,South,Electronics,Monitor,12400,10,3149.14,Consumer
+ORD100,2025-09-25,West,Grocery,Cooking Oil,6125,5,1824.07,Corporate
